@@ -1,6 +1,6 @@
 /**
  * Created by HP on 04.10.2015.
- * Home task 1
+ * 2.10.15 Home task 1
  */
 import java.util.Scanner; // импортируем класс
 public class Factorial {

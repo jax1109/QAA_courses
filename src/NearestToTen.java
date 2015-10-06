@@ -1,6 +1,6 @@
 /**
  * Created by HP on 04.10.2015.
- * Home task 2
+ * 2.10.15 Home task 2
  */
 public class NearestToTen {
     public static void main(String[] args) {
