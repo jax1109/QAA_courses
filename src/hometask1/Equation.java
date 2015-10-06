@@ -1,3 +1,5 @@
+package hometask1;
+
 /**
  * Created by HP on 04.10.2015.
  * Home task 3 - Квадратное уравнение
