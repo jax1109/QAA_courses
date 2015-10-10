@@ -1,6 +1,4 @@
-package hometask1;
-
-import java.util.Scanner;
+package Homework1;
 
 /**
  * Created by kovalevskyi.i on 10/5/2015.

@@ -1,4 +1,4 @@
-package hometask1;
+package Homework1;
 
 /**
  * Created by HP on 04.10.2015.

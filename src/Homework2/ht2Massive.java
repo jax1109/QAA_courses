@@ -1,11 +1,11 @@
-package Hometask2;
+package Homework2;
 
 import java.util.Random;
 
 /**
  * Created by HP on 07.10.2015.
  */
-public class Massive {
+public class ht2Massive {
    public static void main(String[] args) {
         int[] a = new int[10];
         int b = a.length;
