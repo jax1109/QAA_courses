@@ -1,7 +1,6 @@
 package Homework2;
 
 import java.util.Arrays;
-import java.util.Random;
 
 /**
  * Created by Jax on 10.10.15.
